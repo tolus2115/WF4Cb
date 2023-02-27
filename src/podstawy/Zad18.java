@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zad18 {
     public static void main(String[] args) {
         double iloscakcji = 600;

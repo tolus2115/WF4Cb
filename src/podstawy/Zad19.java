@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zad19 {
     public static void main(String[] args) {
         double iloscKonsumentow = 12467;

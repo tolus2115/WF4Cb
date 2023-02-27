@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zad7 {
     public static void main(String[] args) {
 double procentsprzedazywfirmie = 0.62;
