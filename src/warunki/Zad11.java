@@ -1,3 +1,5 @@
+package warunki;
+
 import java.util.Scanner;
 
 public class Zad11 {
